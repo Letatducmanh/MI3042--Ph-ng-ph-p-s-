@@ -1,2 +1,2 @@
-# MI3042--Ph-ng-ph-p-s-
+# MI3042- Numerical methods
 Code in Numerical methods 
